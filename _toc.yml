@@ -6,7 +6,7 @@
   sections:
     - file: markdown
     - file: notebooks
--file: materias
+- file: materias
   sections:
-    -file: aprobadas
-    -file: porAprobar
+    - file: aprobadas
+    - file: porAprobar
