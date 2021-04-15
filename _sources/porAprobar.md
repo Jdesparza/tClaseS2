@@ -2,22 +2,22 @@
 
 ## 6 ciclo
 
-1. Teoría de Autómatas y  Compiladores (** Cursando **)
+1. Teoría de Autómatas y  Compiladores (** Cursando)
     
 
-2. Fundamentos de Redes (** Cursando **)
+2. Fundamentos de Redes (** Cursando)
    
 
-3. Ingeniería de Requisitos (** Cursando **)
+3. Ingeniería de Requisitos (** Cursando)
    
 
-4. Gestión de la calidad de software (** Cursando **)
+4. Gestión de la calidad de software (** Cursando)
    
 
-5. Itinerario I: Plataformas Web (** Cursando **)
+5. Itinerario I: Plataformas Web (** Cursando)
    
 
-6. Prácticum 2.2 (** Cursando **)
+6. Prácticum 2.2 (** Cursando)
 
 
 ## 7 ciclo
